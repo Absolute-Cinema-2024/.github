@@ -57,6 +57,7 @@ We welcome contributions from the community to make Absolute Cinema even better.
 1. Fork this repository and create a new branch for your feature or bug fix.
 2. Make your changes and ensure all tests pass.
 3. Submit a pull request detailing the changes you've made and any relevant information.
+![image](https://github.com/Absolute-Cinema-2024/.github/assets/95578914/456a273e-a404-4477-8f4a-fef8afdfbfb3)
 
 ## License
 
