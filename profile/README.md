@@ -1,4 +1,5 @@
 # Absolute Cinema
+![AC LLD](https://github.com/user-attachments/assets/5c0ec807-2590-4ca1-a29a-bd4bedda0a8a)
 
 Absolute Cinema is a personalized movie tracking and recommendation platform that aims to be your ultimate companion for discovering and keeping track of movies tailored to your tastes. With cutting-edge AI technology, intuitive user interface, and a comprehensive movie database, Absolute Cinema provides real-time recommendations and seamless browsing experiences.
 
